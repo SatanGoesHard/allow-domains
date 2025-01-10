@@ -800,3 +800,4 @@ nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains
 nftset=/yting.com/4#inet#fw4#vpn_domains
 nftset=/smotret-anime.net/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/forum/index.php/4#inet#fw4#vpn_domain
+nftset=/2ip.ru/4#inet#fw4#vpn_domain
